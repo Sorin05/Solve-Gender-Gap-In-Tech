@@ -1,6 +1,7 @@
 const btnMentor = document.querySelector(".btn-mentor");
 const btnStudent = document.querySelector(".btn-student");
-const btnClose = document.querySelector('.btn-close');
+const btnCloseMentor = document.querySelector('.btn-close-mentor');
+const btnCloseStudent = document.querySelector('.btn-close-student');
 
 
 btnMentor.addEventListener('click', function () {
@@ -9,11 +10,9 @@ btnMentor.addEventListener('click', function () {
 btnStudent.addEventListener('click', function () {
     document.querySelector('.student-form').classList.remove('hidden');
 })
-btnClose.addEventListener('click', function () {
-    if (!document.querySelector('.mentor-form').classList.contains('hidden')) {
-        document.querySelector('.mentor-form').classList.add('hidden');
-    }
-    if (!document.querySelector('.student-form').classList.contains('hidden')) {
-        document.querySelector('.student-form').classList.add('hidden');
-    }
+btnCloseMentor.addEventListener('click', function () {
+    document.querySelector('.mentor-form').classList.add('hidden')
+})
+btnCloseStudent.addEventListener('click', function () {
+    document.querySelector('.student-form').classList.add('hidden')
 })
