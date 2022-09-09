@@ -1,0 +1,13 @@
+/* Global */
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.stats_graphic {
+  border: 1px solid black;
+}

@@ -1,108 +1,271 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+![Homepage displayed on multiple devices]()
 
-Welcome Sorin05,
+# **Solve The Gender Gap In Tech?**
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+## **Introduction**
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+## **Table of contents** 
 
-`python3 -m http.server`
+### **1. User Experience (UX)**
+  * 1.1 Target audience
+  * 1.2 Visitor goals
+  * 1.3 Business goals
+  * 1.4 User stories
+  * 1.5 Design choices
+  * 1.6 Wire frames
 
-A blue button should appear to click: _Make Public_,
+### **2. Features**
+  * 2.1 
+  * 2.2 
+  * 2.3 
+  * 2.4 
+  * 2.5 
 
-Another blue button should appear to click: _Open Browser_.
+### **3. Technologies/Languages Used**
+  * 3.1 Gitpod
+  * 3.2 HTML5
+  * 3.3 CSS
+  * 3.4 JavaScript
+  * 3.5 Bootstrap
+  * 3.6 Google Font 
+  * 3.7 Balsamiq
+  * 3.8 Favicon.io
+  * 3.9 
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
+### **4. Testing**
+  * 4.1 See [testing.md](testing.md) document 
 
-A blue button should appear to click: _Make Public_,
+### **5. Deployment**
 
-Another blue button should appear to click: _Open Browser_.
+  * 5.1 Deployment 
+  * 5.2 Cloning 
+  * 5.3 Cloning Desktop
 
-In Gitpod you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+### **6. Credits**
+  * 6.1 Media
+  * 6.2 Code
 
-To log into the Heroku toolbelt CLI:
+### **7. Contact**
+  * 7.1 LinkedIn
+  * 7.2 Email
+  * 7.3 Skype
+  * 7.4 My portfolio page
 
-1. Log in to your Heroku account and go to *Account Settings* in the menu under your avatar.
-2. Scroll down to the *API Key* and click *Reveal*
-3. Copy the key
-4. In Gitpod, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+### **8. Disclaimer**
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+  * 8.1 Disclaimer on project 
 
-------
+<hr>
 
-## Release History
+<details>
+<summary><strong>1. User Experience (UX)</strong></summary>
+<br/>
 
-We continually tweak and adjust this template to help give you the best experience. Here is the version history:
+#### **1.1 Target Audience**
 
-**September 1 2021:** Remove `PGHOSTADDR` environment variable.
+* This project is aimed at any woman who has experience working in tech and who wishes to volunteer her time to act as a mentor to younger women in school and university to help assist the gender gap that exists in tech. 
 
-**July 19 2021:** Remove `font_fix` script now that the terminal font issue is fixed.
+#### **1.2 Visitor goals** 
 
-**July 2 2021:** Remove extensions that are not available in Open VSX.
+* As a user of the site i want to be able to search for mentors that may be able to mentor me during my education in STEM and to help address the gender imbalance in the world of tech. 
 
-**June 30 2021:** Combined the P4 and P5 templates into one file, added the uptime script. See the FAQ at the end of this file.
+#### **1.3 Business goals**
 
-**June 10 2021:** Added: `font_fix` script and alias to fix the Terminal font issue
+* No business or monetary goals, the site is aimed at helping support young women during their education years so they may choose and stick with a career in tech. 
 
-**May 10 2021:** Added `heroku_config` script to allow Heroku API key to be stored as an environment variable.
+#### **1.4 User Stories**
 
-**April 7 2021:** Upgraded the template for VS Code instead of Theia.
+* As a visitor to the company website i expect/want/need
+ 
 
-**October 21 2020:** Versions of the HTMLHint, Prettier, Bootstrap4 CDN and Auto Close extensions updated. The Python extension needs to stay the same version for now.
+#### **1.5 Design choices** 
 
-**October 08 2020:** Additional large Gitpod files (`core.mongo*` and `core.python*`) are now hidden in the Explorer, and have been added to the `.gitignore` by default.
+* 
 
-**September 22 2020:** Gitpod occasionally creates large `core.Microsoft` files. These are now hidden in the Explorer. A `.gitignore` file has been created to make sure these files will not be committed, along with other common files.
+#### **FONTS**
 
-**April 16 2020:** The template now automatically installs MySQL instead of relying on the Gitpod MySQL image. The message about a Python linter not being installed has been dealt with, and the set-up files are now hidden in the Gitpod file explorer.
+* 
 
-**April 13 2020:** Added the _Prettier_ code beautifier extension instead of the code formatter built-in to Gitpod.
+![Image of how the font will look]()
 
-**February 2020:** The initialisation files now _do not_ auto-delete. They will remain in your project. You can safely ignore them. They just make sure that your workspace is configured correctly each time you open it. It will also prevent the Gitpod configuration popup from appearing.
+#### **ICONS**
 
-**December 2019:** Added Eventyret's Bootstrap 4 extension. Type `!bscdn` in a HTML file to add the Bootstrap boilerplate. Check out the <a href="https://github.com/Eventyret/vscode-bcdn" target="_blank">README.md file at the official repo</a> for more options.
+*   
 
-------
+#### **COLORS**
 
-## FAQ about the uptime script
+* 
 
-**Why have you added this script?**
+![Image of the color pallet used for the project]()
 
-It will help us to calculate how many running workspaces there are at any one time, which greatly helps us with cost and capacity planning. It will help us decide on the future direction of our cloud-based IDE strategy.
+#### **1.6 Wire Frames** 
 
-**How will this affect me?**
+* The wireframes for the project can be seen below. There is a wireframe for desktop, tablet and mobile.
 
-For everyday usage of Gitpod, it doesn’t have any effect at all. The script only captures the following data:
+#### **DESKTOP**
+![Desktop Wireframe]()
 
-- An ID that is randomly generated each time the workspace is started.
-- The current date and time
-- The workspace status of “started” or “running”, which is sent every 5 minutes.
+#### **TABLET**
+![Tablet Wireframe]()
 
-It is not possible for us or anyone else to trace the random ID back to an individual, and no personal data is being captured. It will not slow down the workspace or affect your work.
+#### **MOBILE**
+![Image of Navbar]()
 
-**So….?**
+</details>
 
-We want to tell you this so that we are being completely transparent about the data we collect and what we do with it.
+<hr>
 
-**Can I opt out?**
+<details>
+<summary><strong>2. Features</strong></summary>
+<br/>
 
-Yes, you can. Since no personally identifiable information is being captured, we'd appreciate it if you let the script run; however if you are unhappy with the idea, simply run the following commands from the terminal window after creating the workspace, and this will remove the uptime script:
+#### **2.1 Navbar** 
 
-```
-pkill uptime.sh
-rm .vscode/uptime.sh
-```
 
-**Anything more?**
+#### **2.2 Action Buttons**
 
-Yes! We'd strongly encourage you to look at the source code of the `uptime.sh` file so that you know what it's doing. As future software developers, it will be great practice to see how these shell scripts work.
 
----
 
-Happy coding!
+#### **2.3 Result**
+
+
+
+#### **2.4 Footer**
+
+* The footer contains the basic information on the site and the copyright.
+
+![Image of footer]()
+
+#### **2.5 Features Left To Implement**
+
+*  
+</details>
+
+<hr>
+
+<details>
+<summary><strong>3. Technologies/Languages Used</strong></summary>
+<br/>
+
+3.1 [Gitpod](https://www.gitpod.io/) - Is the IDE we used for this project<br>
+3.2 [HTML5](https://html.com/html5/#What_is_HTML) - This is the markup language we used for this project.<br>
+3.3 [CSS](https://en.wikipedia.org/wiki/CSS) - We used CSS to help alter and adjust the presentation of the website to create a pleasant user experience.<br>
+3.4 [JavaScript](https://en.wikipedia.org/wiki/JavaScript) - JavaScript was used to write the quiz page on the project<br>
+3.5 [Bootstrap](https://getbootstrap.com/) - Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites. Bootstrap 5 is the version we used for the development of this project.<br>
+3.6 [Google fonts](https://fonts.google.com/) - Launched in 2010 Google Fonts is a library of 1,023 free licensed font families.<br>
+3.7 [Balsamiq](https://balsamiq.com/)- Balsamiq Wireframes is a rapid low-fidelity UI wireframing tool that reproduces the experience of sketching on a notepad or whiteboard.<br>
+3.8 [favicon.io](https://favicon.io/) - Favicon.io is the free favicon generator i used for the project<br>
+</details>
+
+<hr>
+
+<details>
+<summary><strong>4. Testing</strong></summary>
+<br>
+
+* Testing information can be found in the [testing.md](testing.md) file
+</details>
+<hr>
+
+<details>
+<summary><strong>5. Deployment</strong></summary>
+<br>
+
+#### **5.1 Deployment**  
+
+To deploy the site on Github i undertook the following steps:
+
+1. Navigated to my profile page on Github
+2. Selected this project from the repositories
+3. Clicked on settings
+4. Click on pages which is on the left which is in the code and automation section
+5. Click where is says source and in the dropdown menu select master 
+6. Click on the next dropdown menu to the right select /(root)
+7. Click save
+
+You will then receive a confirmation saying the page has been published and also be provided with the link where people can view your site.
+
+![Image of page published confirmation]()
+
+The link to view the live site can be found by clicking [Here]()
+
+#### **5.2 Cloning**
+
+You can clone the projects repository to your local computer by following the steps below:
+
+Cloning a repository using the command line
+
+1. On github navigate to the project repository. The link can be found here: 
+2. Click on the tab that says < >code 
+3. Above the files, click the button that says &#8595;code
+
+![Github code button]()
+
+4. From the menu select HTTPS
+5. Click on the clipboard icon on the right hand side (Image below)
+
+![Github copy link button]()
+
+6. Open the terminal in your IDE
+7. Change the current working directory to the location where you want the cloned directory.
+8. In terminal type `git clone` and then paste the URL you copied earlier 
+9. Press Enter to create your local clone.
+
+#### **5.3 Cloning Desktop**
+You can also clone the project using Github Desktop. To do this you can do the following: 
+
+1. On github navigate to the project repository. The link can be found here: 
+2. Click on the tab that says code 
+3. Above the files, click the button that says &#8595;code
+
+![Github code button]()
+
+6. Click on Download ZIP.
+7. Unzip the repository after it downloads to your machine and then drag the unzipped files into your IDE.
+
+</details>
+
+<hr>
+
+<details>
+<summary><strong>6. Credits</strong></summary> 
+<br>
+
+#### **6.1 Media** 
+
+* 
+
+#### **6.2 Code** 
+
+* All of the code in the project was written by:
+
+1. Stephen Mc Govern 
+2. Sorin Andrei
+3. Mark Stephenson
+4. Martin Pavlin
+5. Mihai Elisei
+
+</details>
+<hr>
+
+<details>
+<summary><strong>7. Contact</strong></summary>
+<br>
+
+Feel free to contact us on any of the following channels:<br>
+
+
+</details>
+
+<hr>
+
+<details>
+<summary><strong>8. Disclaimer</strong></summary>
+<br>
+
+* 8.1 There is no monetization generated from this site. It is only intended as an educational project and proof of concept during a Hackathon. 
+</details>
+
+<hr>
