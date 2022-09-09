@@ -11,3 +11,23 @@ body {
 .stats_graphic {
   border: 1px solid black;
 }
+
+
+
+/* forms page */
+
+.forms-title {
+  text-align: center;
+}
+
+.hidden {
+  display: none !important;
+}
+
+.btns-forms {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+}
