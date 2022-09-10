@@ -6,6 +6,8 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
+  padding: 0;
+  margin: 0;
 }
 
 .stats_graphic {
@@ -32,9 +34,3 @@ body {
   text-align: center;
 }
 
-.masthead {
-  background-size: cover;
-  min-height: 60vh;
-  position: relative;
-  color: white;
-}
