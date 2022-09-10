@@ -31,3 +31,10 @@ body {
   transform: translate(-50%, -50%);
   text-align: center;
 }
+
+.masthead {
+  background-size: cover;
+  min-height: 60vh;
+  position: relative;
+  color: white;
+}
