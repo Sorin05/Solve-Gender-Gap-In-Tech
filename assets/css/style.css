@@ -34,6 +34,18 @@ body {
   text-align: center;
 }
 
+/* Animate css for women in tech page */
+/* This only changes this particular animation duration */
+.animate__animated.animate__bounce {
+  --animate-duration: 3s;
+}
+
+/* This changes all the animations globally */
+:root {
+  --animate-duration: 3000ms;
+  --animate-delay: 0.9s;
+}
+
 /* quiz css */
 
 .hide {
