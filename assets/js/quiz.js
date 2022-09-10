@@ -30,6 +30,9 @@ function setNextQuestion() {
 }
 
 function showQuestion(question) {
+    questionContainerElement.classList.remove('hide');
+    responseElement.classList.add('hide');
+    controlsElement.classList.add('hide');
     questionElement.innerText = question.question;
     question.answers.forEach(answer => {
         const button = document.createElement('button');
